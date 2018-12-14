@@ -6,7 +6,19 @@
 
 Προτεινόμενος Εξοπλισμός
 
-
+Raspberry Pi 3   Model B+  			    38.80€ 
+MicroSDHC	8Gb				                10.00€
+Power Supply 5V 2.5A			          9.00€
+7inch Touch Screen Display 800x480	54.90€
+Camera Board V1.3 (5MP , 1080p)		  19.00€
+Flex Cable For Rpi Camera 2meters		4.50€	 
+Photoresistor Module KY-018  x2		  3.00€
+Laser Transmitter Module KY-008 x2	3.00€
+T-Cobbler GPIO Breakout			        3.90€			
+GPIO Ribbon Cable				            2.00€
+Breadboard Full Size  			        4.00€
+Jumper Wires M/M και  M/F			      7.00€
+Push Buttons 12.5mm x4			        2.00€
 
 
 
